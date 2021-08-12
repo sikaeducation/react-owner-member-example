@@ -1,0 +1,9 @@
+.ItemSummary.inactive {
+  background-color: hsl(240, 30%, 90%);
+}
+
+.ItemSummary.active {
+  background-color: hsl(240, 60%, 80%);
+  font-weight: 700;
+}
+
